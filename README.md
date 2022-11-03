@@ -5,7 +5,7 @@
 
 ![Calculator.jpg](Calculator.jpg) 
 
-##### Responsive tasarım
+##### Responsive
 
 
 ### ZEABAY
